@@ -5,18 +5,13 @@ title: "Syllabus"
 
 # Modeling Biological Populations
 
-**Course Number:** AS.020.313
+**Course Number:** AS.020.313 <br> 
+**Schedule**: Intersession 2023, Tues, Weds, Thurs 01:00 PM - 05:00 PM <br> 
+**Location** Homewood Campus, UG Teaching Lab (UTL) 189 <br> 
+**Office Hours**: Tues, Weds, Thurs 12:00 PM - 1:00 PM, or by appointment; UTL 189 <br> 
 
-**Schedule**: Intersession 2023, Tues, Weds, Thurs 01:00 PM - 05:00 PM
-
-**Location** Homewood Campus, UG Teaching Lab (UTL) 189
-
-**Office Hours**: Tues, Weds, Thurs 12:00 PM - 1:00 PM, or by appointment; UTL 189
-
-**Instructors:** 
-
-Andrew Bortvin  [abortvi2@jh.edu2](mailto:abortvi2@jh.edu2)
-
+**Instructors:** <br> 
+Andrew Bortvin  [abortvi2@jh.edu2](mailto:abortvi2@jh.edu2)<br> 
 Sara Carioscia  [Sara's Email](mailto:SARAS_EMAIL)  **FILL THIS IN**
 
 
