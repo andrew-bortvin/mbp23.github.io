@@ -17,8 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md"}
-  - {title: "Prep Work", file: "prepWork.md"}
   - {title: "Syllabus", file: "syllabus.md"}
+  - {title: "Prep Work", file: "prepWork.md"}
+
   
 external: 
   - {title: Mail, icon: envelope, url: "mailto:abortvi2@jh.edu"}
