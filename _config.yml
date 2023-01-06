@@ -16,8 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Syllabus", file: "/syllabus.md"}
-  - {file: "README.md"}
+  - {title: "Syllabus", file: "syllabus.md"}
   
 external: 
   - {title: Mail, icon: envelope, url: "mailto:abortvi2@jh.edu"}
