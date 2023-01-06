@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
   
 external: 
+  - {title: Mail, icon: envelope, url: "mailto:abortvi2@jh.edu"}
 
 
 comments:
