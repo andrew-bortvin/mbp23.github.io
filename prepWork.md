@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prep Work"
+title: "PrepWork"
 ---
 
 this is a test 
