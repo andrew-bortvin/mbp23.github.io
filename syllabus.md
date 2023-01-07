@@ -26,7 +26,7 @@ Class will be divided between lectures covering biological principles, live codi
 
 As this is a longer class, we will take breaks during class between sections. Feel free to bring snacks or drinks. 
 
-**Assignments**
+**Assignments** <br>
 Each day, we will reserve time to work on in-class assignments, which will primarily focus on implementation of population models in Python and conceptual questions regarding population biology theory. Each assignment will consist of a series of basic and advanced exercises. We expect all students to complete the basic exercises, which will focus on the models we explicitly discuss in class. Advanced exercises are optional. They will cover ways that the models we learn about in class can be extended and made more complex. We encourage all students to try advanced exercises, as they will contain a lot of the most exciting biological models that we will cover. 
 
 For this course, we will be using Google Colab for in-class live coding and to distribute assignments. To submit assignments, you can submit a link to your notebook. If you have previous coding experience and are more comfortable using a local Python installation, feel free to do so. If you run Python locally, please submit a copy of your scripts along with all output and text files with written answers, when appropriate.
