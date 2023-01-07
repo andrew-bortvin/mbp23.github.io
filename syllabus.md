@@ -17,13 +17,13 @@ Sara Carioscia  [Sara's Email](mailto:SARAS_EMAIL)  **FILL THIS IN**
 
 ## Course Description
 
-so descriptive
+Population biologists study the dynamics of how populations behave and change, but these processes are often too complex for direct observation. Computational tools are therefore essential to the study of biological populations as they allow for study across time scales far beyond what can be observed. Students will be introduced to computational biology, using the fundamentals of coding in the Python programming language. We will apply this code in developing simulations of biological populations, including invasive species and cancerous tumors. Students will enact and observe the effects of various parameters (e.g., mutation, environmental pressure, behavior, random chance) on their populations. We will also explore how these models can be applied in other fields, and how biology makes use of models from fields including linguistics and economics. Upon completing the course, students will be prepared to independently continue learning more advanced programming concepts. Prior programming experience is not required. Students from all departments and at all levels (including freshmen undergraduates) are welcome.
 
 ## Class Structure
 
 **How are lectures organized** - in class lecture; live coding; time to work independently; 
 
-**+How are assignments organized** - a set of exercises everyone is expected to do; advanced exercises - do these  
+**How are assignments organized** - a set of exercises everyone is expected to do; advanced exercises - do these  
 
 For this course, we will be using Google Colab for in-class live coding and to distribute assignments. To submit assignments, you can submit a link to your notebook. If you have previous coding experience and are more comfortable using a local Python installation, feel free to do so. For assignments, please submit a copy of your scripts along with all output and text files with written answers, when appropriate.
 
