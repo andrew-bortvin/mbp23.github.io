@@ -15,8 +15,17 @@ Andrew Bortvin  [abortvi2@jh.edu2](mailto:abortvi2@jh.edu2)<br>
 Sara Carioscia  [Sara's Email](mailto:SARAS_EMAIL)  **FILL THIS IN**
 
 
-## Testing a subheader
+## Course Description
 
-more info
+so descriptive
 
-more testing
+## Coding and Assignment Submission
+
+## Schedule 
+
+when do we do things
+
+## Grading
+
+how are you graded
+
