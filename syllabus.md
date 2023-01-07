@@ -11,7 +11,7 @@ title: "Syllabus"
 **Office Hours**: Tues, Weds, Thurs 12:00 PM - 1:00 PM, or by appointment; UTL 189 <br> 
 
 **Instructors:** <br> 
-Andrew Bortvin  [abortvi2@jh.edu2](mailto:abortvi2@jh.edu2)<br> 
+Andrew Bortvin  [abortvi2@jh.edu2](mailto:abortvi2@jh.edu)<br> 
 Sara Carioscia  [Sara's Email](mailto:SARAS_EMAIL)  **FILL THIS IN**
 
 
