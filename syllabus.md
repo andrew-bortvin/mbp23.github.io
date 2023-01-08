@@ -12,7 +12,7 @@ title: "Syllabus"
 
 **Instructors:** <br> 
 Andrew Bortvin  [abortvi2@jh.edu](mailto:abortvi2@jh.edu)<br> 
-Sara Carioscia  [Sara's Email](mailto:SARAS_EMAIL)  **FILL THIS IN**
+Sara Carioscia  [Saracarioscia@jhu.edu](mailto:Saracarioscia@jhu.edu)
 
 
 ## Course Description
@@ -48,7 +48,7 @@ You are welcome to work together in small groups and collaboration is encouraged
 
 This course will be graded Pass/Fail, and individual assignments will be graded on reasonable completion instead of accuracy of results. In each assignment, we will specify items to include in your submission; the assignment score will be the fraction of items completed. To achieve a Pass, you must have an average of 70% in the course. 
 
-All assignments will be due at the end of the course period (**when**?). However, please submit your work at the end of the day - we will look at your work in progress, provide written feedback, and let you know estimated percent completion. 
+All assignments will be due at the end of the course period (1/19/23). However, please submit your work at the end of the day - we will look at your work in progress, provide written feedback, and let you know estimated percent completion. 
 
 ## Office Hours
 
