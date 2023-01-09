@@ -23,7 +23,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
 external: 
   - {title: Mail, icon: envelope, url: "mailto:abortvi2@jh.edu"}
-  - {title: GitHub, icon: GitHub, url: "https://github.com/scarioscia/modeling_biological_populations"}
 
 
 comments:
