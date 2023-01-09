@@ -3,4 +3,4 @@ layout: page
 title: "HOME"
 ---
 
-This is a test of a home page! 
+Welcome to Modeling Biological Populations! We'll be using this page throughout the course as a central location to store all course materials. 
