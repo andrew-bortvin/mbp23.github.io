@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md"}
   - {title: "Syllabus", file: "syllabus.md"}
   - {title: "Prep Work", file: "prepWork.md"}
+  - {title: "In-Class Notebooks", file: "in_class_work.md"}
 
   
 external: 
