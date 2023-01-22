@@ -9,3 +9,7 @@ We have prepared two notebooks that will introduce you the basics of coding in P
 
 * [Introduction to Python, Part 1](https://colab.research.google.com/drive/1zX3yesi6ncEeWQefjAcxnnynW0oSikWg?usp=sharing)
 * [Introduction to Python, Part 2](https://colab.research.google.com/drive/1gtxWHT4I7gOGEA8uR10PrKFoIxIXW5uH?usp=sharing)
+
+We have also prepared a notebook for Python basics, intended to be completed alongside or immediately after the Day 1 notebook: 
+
+* [Functions, iterating over variables](https://colab.research.google.com/drive/1qrpaAhJjjJxwscITvT4IEIt5oPJCjJc9?usp=sharing)
