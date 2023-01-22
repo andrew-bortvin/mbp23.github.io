@@ -46,7 +46,7 @@ You are welcome to work together in small groups, and collaboration is encourage
 
 ## Grading
 
-This course will be graded Pass/Fail, and individual assignments will be graded on reasonable completion (rather than accuracy of results). In each assignment, we will specify items to include in your submission; the assignment score will be the fraction of items completed. To achieve a Pass, you must have an average of 70% completion across the assignments.  
+This course will be graded Satisfactory/Unsatisfactory, and individual assignments will be graded on reasonable completion (rather than accuracy of results). In each assignment, we will specify items to include in your submission; the assignment score will be the fraction of items completed. To achieve a Satisfactory, you must have an average of 70% completion across the assignments.  
 
 All assignments will be due at the end of the course period (1/19/23). However, please submit your work at the end of the day - we will look at your work in progress, provide written feedback, discuss any questions or opoprtunities for improvement, and let you know estimated percent completion. 
 
